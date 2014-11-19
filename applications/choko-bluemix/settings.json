@@ -1,0 +1,8 @@
+{
+  "database": "mongodb://localhost/choko-org",
+  "sessionSecret": "some-secret",
+  "application": {
+    "name": "Choko"
+  },
+  "extensions": {}
+}
