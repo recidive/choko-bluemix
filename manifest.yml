@@ -1,0 +1,9 @@
+---
+applications:
+- memory: 512MB
+  path: .
+  host: choko
+  name: choko
+  services:
+    - MongoLab-7x
+  instances: 1
