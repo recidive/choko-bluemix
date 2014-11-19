@@ -1,5 +1,5 @@
 {
-  "name": "Choko Bluemix",
+  "name": "choko-bluemix",
   "version": "0.0.1",
   "description": "An example Choko application for running on IBM Bluemix.",
   "scripts": {
